@@ -1,0 +1,101 @@
+1,Estructuras de Datos,González,Programación,3
+2,Algoritmos Avanzados,Pérez,Programación,0
+3,Cálculo Integral,Rodríguez,Matemáticas,2
+4,Física Moderna,Smith,Física,1
+5,Bases de Datos Relacionales,Tanenbaum,Programación,2
+6,Álgebra Lineal,Rodríguez,Matemáticas,0
+7,Mecánica Cuántica,Smith,Física,3
+8,Sistemas Operativos,Tanenbaum,Sistemas,1
+9,Redes de Computadoras,Tanenbaum,Sistemas,2
+10,Inteligencia Artificial,Russell,Programación,1
+11,Cien Años de Soledad,García Márquez,Literatura,4
+12,Don Quijote de la Mancha,Cervantes,Literatura,2
+13,Historia Universal Contemporánea,Hobsbawm,Historia,3
+14,Cálculo Multivariable,Stewart,Matemáticas,2
+15,Física Universitaria,Sears,Física,5
+16,Química General,Chang,Química,3
+17,Ingeniería de Software,Pressman,Sistemas,2
+18,Arquitectura de Computadoras,Patterson,Sistemas,1
+19,Estadística Aplicada,Devore,Matemáticas,4
+20,Machine Learning,Bishop,Programación,2
+21,El Señor de los Anillos,Tolkien,Literatura,3
+22,Ecuaciones Diferenciales,Zill,Matemáticas,2
+23,Electromagnetismo,Hayt,Física,1
+24,Sapiens: De animales a dioses,Harari,Historia,5
+25,JavaScript Moderno,Flanagan,Programación,3
+26,1984,Orwell,Literatura,2
+27,Redes Neuronales y Deep Learning,Goodfellow,Programación,1
+28,Lógica Matemática,Enderton,Matemáticas,3
+29,Física Cuántica,Eisberg,Física,2
+30,Seguridad Informática,Stallings,Sistemas,4
+31,El Aleph,Borges,Literatura,2
+32,Teoría de la Computación,Sipser,Programación,1
+33,Análisis Matemático I,Apostol,Matemáticas,3
+34,Física Termodinámica,Zemansky,Física,2
+35,Química Orgánica,Wade,Química,4
+36,Historia del siglo XX,Hobsbawm,Historia,3
+37,Rayuela,Cortázar,Literatura,5
+38,Matemáticas Discretas,Rosen,Matemáticas,2
+39,Mecánica de Fluidos,White,Física,1
+40,Robótica y Control,Craig,Sistemas,2
+41,Ficciones,Borges,Literatura,3
+42,Patrones de Diseño,Gamma,Programación,4
+43,Geometría Analítica,Leithold,Matemáticas,2
+44,Óptica Física,Hecht,Física,3
+45,Bioquímica Fundamental,Leningher,Química,1
+46,La Segunda Guerra Mundial,Churchill,Historia,5
+47,Pedro Páramo,Rulfo,Literatura,2
+48,Probabilidad y Estadística,Walpole,Matemáticas,3
+49,Física Mecánica,Serway,Física,4
+50,Ciberseguridad Avanzada,Schneier,Sistemas,2
+51,Orgullo y Prejuicio,Austen,Literatura,3
+52,Análisis Numérico,Burden,Matemáticas,2
+53,Física Nuclear,Krane,Física,1
+54,Química Inorgánica,Housecroft,Química,3
+55,Sistemas Embebidos,Valvano,Sistemas,2
+56,Desarrollo de Apps Android,Smyth,Programación,4
+57,Topología General,Munkres,Matemáticas,1
+58,Electrónica Digital,Tocci,Física,3
+59,Historia de Roma,Mommsen,Historia,2
+60,Crimen y Castigo,Dostoyevski,Literatura,2
+61,Programación Funcional en Scala,Chiusano,Programación,3
+62,Álgebra Abstracta,Herstein,Matemáticas,2
+63,Física de Semiconductores,Sze,Física,1
+64,Química de Alimentos,Badui,Química,4
+65,Linux y Administración de Servidores,Niemeyer,Sistemas,3
+66,Los Miserables,Hugo,Literatura,2
+67,Análisis de Datos con R,Wickham,Programación,4
+68,Cálculo de Variaciones,Gelfand,Matemáticas,1
+69,Astrofísica General,Carroll,Física,2
+70,Historia Antigua de Grecia,Bury,Historia,3
+71,Algoritmos Genéticos,Goldberg,Programación,2
+72,Geometría Diferencial,Do Carmo,Matemáticas,1
+73,Termodinámica Química,Smith,Química,3
+74,El Metamorfosis,Kafka,Literatura,4
+75,Programación en Rust,Blandy,Programación,3
+76,Variable Compleja,Churchill,Matemáticas,2
+77,Relatividad General,Misner,Física,1
+78,La Odisea,Homero,Literatura,5
+79,Procesamiento Digital de Señales,Proakis,Programación,2
+80,Fundamentos de Bioinformática,Claverie,Sistemas,2
+81,Programación en C,Kernighan,Programación,4
+82,Teoría de Juegos,Gibbons,Matemáticas,3
+83,Física del Estado Sólido,Kittel,Física,1
+84,Química Analítica,Skoog,Química,2
+85,Redes Inalámbricas,Tanenbaum,Sistemas,3
+86,La Divina Comedia,Dante,Literatura,4
+87,Ecuaciones Integrales,Pipkin,Matemáticas,1
+88,Mecánica Celeste,Murray,Física,2
+89,Breve historia del mundo,Gombrich,Historia,2
+90,Programación Reactiva,Nurkiewicz,Programación,3
+91,Diseño de Compiladores,Louden,Programación,2
+92,Análisis de Grafos,West,Matemáticas,3
+93,Física de Partículas,Griffiths,Física,1
+94,Química Ambiental,Manahan,Química,3
+95,El Perfume,Süskind,Literatura,4
+96,Estructuras de Datos avanzadas,Okasaki,Programación,2
+97,Lógica Computacional,Huth,Matemáticas,2
+98,Física Computacional,Thijssen,Física,2
+99,Seguridad en Redes,Forouzan,Sistemas,3
+100,Inteligencia Artificial Avanzada,Norvig,Programación,1
+
